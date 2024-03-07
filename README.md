@@ -1,3 +1,15 @@
+<img src="https://readme-typing-svg.herokuapp.com/? 
+font=righteous&size=35&center=true&vcenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Arnav+Katyal!;" />
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
