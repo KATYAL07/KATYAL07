@@ -1,28 +1,33 @@
-<img src="https://readme-typing-svg.herokuapp.com/? 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KATYAL07.KATYAL07" />
+
+<h1 align="center">
+  <a href="https://git.io/typing.svg"> 
+    <img src="https://readme-typing-svg.herokuapp.com/? 
 font=righteous&size=35&center=true&vcenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Arnav+Katyal!;" />
+  </a>
+</h1>
+
+<h3 align="center">A student at DPS Dwarka </h3>
+
+<br/> 
+
+<div align="center">
+
+I’m currently working on- **A chat app**
+
+ I’m currently learning- **Kotlin , rust , python**
+
+  Ask me about- **Java, Java script, c++, HTML, css**
+
+  </div> 
+
+  <div align="center">
+  <a href="Mail to:katyalarnav1@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logocolor=red" target="blank"/>
+  </a>
+  
 
 
 
 
 
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**KATYAL07/KATYAL07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
