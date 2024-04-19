@@ -17,9 +17,9 @@ font=righteous&size=35&center=true&vcenter=true&width=500&height=70&duration=400
 
 I’m currently working on- **A chat app**
 
- I’m currently learning- **Kotlin , rust , python**
+ I’m currently learning- **python,Kotlin, rust , python**
 
-  Ask me about- **Java, Java script, c++, HTML, css**
+  Ask me about- **Java, Java script, c++, HTML, CSS,SQL**
 
   </div> 
 
