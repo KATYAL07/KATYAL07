@@ -1,35 +1,55 @@
-### Hi There 
-### I'm Arnav Katyal!
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KATYAL07.KATYAL07" />
+<h2 align="left">Hi! My name is Arnav Katyal</h2>
 
-<h1 align="center">
-  <a href="https://git.io/typing.svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com/? 
-font=righteous&size=35&center=true&vcenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Arnav+Katyal!;" />
-  </a>
-</h1>
-
-<h3 align="center">A student at DPS Dwarka </h3>
-
-<br/> 
+###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KATYAL07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KATYAL07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I’m currently working on- **A chat app**
+###
 
- I’m currently learning- **python,Kotlin, rust , python**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-  Ask me about- **Java, Java script, c++, HTML, CSS,SQL**
+###
 
-  </div> 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-  <div align="center">
-  <a href="Mail to:katyalarnav1@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logocolor=red" target="blank"/>
-  </a>
-  
+###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/KATYAL07/KATYAL07/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KATYAL07.KATYAL07&left_color=black&right_color=royalblue"  />
+
+###
 
 
 
